@@ -1,0 +1,34 @@
+Objective: 
+I will create a website that will link/hook all available social media site for people to gain access to
+and will not have to worry about opening 8 different applications which will help on optimization and efficieny.
+
+Task:
+- The term will be offically be named as Moac. 
+- There will be API codes that will allow the users to choose and pick which social media they want.
+- List of examples such as youtube, imgur, facebook, snapchat, twitter,
+- Asynchronous updates of social media that may be change on user's perferences.
+- Sports update may be added to this as well.
+- School group information may be added.
+- Information will not be stored nor shared except for names and birthdays.
+- Two way authentication will be require to prevent unnecessary hacks.
+- Advertisement will be added to support the platform.
+- User will gain the ability to access all their favorite social media apps and recieves updates.
+- Provide a way to eliminate email's spams. (No flooding)
+- Gaming status may be updated as well.
+- Platforms able to support wide and far variety.
+- Music platform may able to join but with restrictions on terms & agreements.
+- Gifs and Videos will not be able to be watched but sent through the applications that came from.
+- Goal of Moac is to be efficient, optimization, power saving for user on mobile applications.
+- Platform it will first support is Android and then Apple.
+- Kid friendly section where stuff over 16+ will be blocked.
+
+Restrictions and validations:
+User must provide their name, birthday and phone number to ensure authentication and authorization. Phone number will not be stored.
+User cannot have two or more of the same SMA (social media app) on the Moac's Application.
+User & Applications doesn't have the right to own any of the applications that Moac's application functions. Only to their respected agreement.
+Copyright music and videos will not be able to play on Moac's Applications. Flags will be marked the social media themselves.
+Illegal activity will be marked and the person name, address and phone number will be gathered as well as circle friends to be reported.
+Illegal Software will not be housed on Moac's applications however it will have the ability to add through our process of validation.
+Moac cannot add or remove social media applications without authorization from the committee.
+Block content for young childrens will require parents consent to allow content for childrens to gain access to a certain media site. Parents must have an account and will be validated through their social media application to determine their trusted parental status.
+
