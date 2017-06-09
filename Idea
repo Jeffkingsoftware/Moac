@@ -2,6 +2,7 @@ Objective:
 I will create a website that will link/hook all available social media site for people to gain access to
 and will not have to worry about opening 8 different applications which will help on optimization and efficieny.
 
+
 Task:
 - The term will be offically be named as Moac. 
 - There will be API codes that will allow the users to choose and pick which social media they want.
@@ -22,6 +23,7 @@ Task:
 - Platform it will first support is Android and then Apple.
 - Kid friendly section where stuff over 16+ will be blocked.
 
+
 Restrictions and validations:
 User must provide their name, birthday and phone number to ensure authentication and authorization. Phone number will not be stored.
 User cannot have two or more of the same SMA (social media app) on the Moac's Application.
@@ -31,4 +33,22 @@ Illegal activity will be marked and the person name, address and phone number wi
 Illegal Software will not be housed on Moac's applications however it will have the ability to add through our process of validation.
 Moac cannot add or remove social media applications without authorization from the committee.
 Block content for young childrens will require parents consent to allow content for childrens to gain access to a certain media site. Parents must have an account and will be validated through their social media application to determine their trusted parental status.
+
+
+Possible Social Media applications:
+- Facebook
+- Youtube
+- Discord
+- Imgur
+- Snapchat
+- NFL application
+- FIFA applications
+- etc.
+
+Style and design:
+Color code to follow.
+Framework for applications to follow.
+Which platform should Moac Applications to run.
+
+
 
